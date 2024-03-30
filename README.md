@@ -6,5 +6,4 @@ I'm a Computer Engineering graduate passionate about data science and machine le
 <br />
 
 
-- 🔭 I’m currently working on Deep Learning, AI, and GenAI.
-- 🌱 I’m currently learning Advance Deep Learning (CV and NLP)
+![](https://komarev.com/ghpvc/?username=usmanyaqoob49&color=red&label=Profile+Views)
